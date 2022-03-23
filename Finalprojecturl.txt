@@ -1,0 +1,4 @@
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0221EN-SkillsNetwork/labs/module%206/Final%20Assignment/ETL_Engineer_Peer_Review_Assignment.ipynb
+
+
+If you have not created a Watson service and added a project in it, before proceeding with this lab please ensure you complete the previous lab: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/FinalModule_Coursera/IBM_Cloud_and_Watson_Setup.md.html

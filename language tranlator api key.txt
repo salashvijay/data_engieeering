@@ -1,0 +1,2 @@
+APIkey: j1_u-wuE8fbnCC2wEwtbXBQFZy7VbgP-Fn-Wfy3Jv4PE
+url: https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/7d016210-8869-41a3-9d80-4c8adf1baf67
